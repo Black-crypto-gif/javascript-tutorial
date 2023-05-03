@@ -22,7 +22,7 @@ This is a beginner's guide to JavaScript, covering the basics of variables, data
 - [Classes](#classes)
 - [Modules](#modules)
 - [Promises](#promises)
-- [Async/Await](#async-await)
+- [Async/Await](https://github.com/Black-crypto-gif/javascript-tutorial/blob/Async/Await/README.md)
 - [Generators](#generators)
 - [Iterators](#iterators)
 - [Callback Functions](#callback-functions)
