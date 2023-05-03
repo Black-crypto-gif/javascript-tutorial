@@ -6,6 +6,7 @@ const matchingNames = names.match(regex);
 
 console.log(matchingNames); // ["Jane", "Michael", "Sarah", "Adam", "Amanda"] 
 
+/* 
 Let's break down the regular expression /\b\w*a\w*\b/g:
 
 \b is a word boundary, which matches the start or end of a word.
@@ -18,3 +19,4 @@ So the regular expression matches any word that contains the letter "a" in it, a
 
 Regular expressions can be quite powerful and flexible for pattern matching and data extraction, but they can also be complex and hard to read. It's important to use them judiciously and with care.
 
+*/
