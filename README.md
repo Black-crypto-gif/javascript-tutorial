@@ -1,5 +1,3 @@
-Sure, here's an example of a simple README for your JavaScript tutorial:
-
 # JavaScript Tutorial
 
 This is a beginner's guide to JavaScript, covering the basics of variables, data types, operators, control structures, functions, and objects.
