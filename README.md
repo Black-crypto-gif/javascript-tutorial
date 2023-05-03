@@ -2,6 +2,37 @@
 
 This is a beginner's guide to JavaScript, covering the basics of variables, data types, operators, control structures, functions, and objects.
 
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+
+
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+
+## Authors
+
+- [@octokatherine](https://www.github.com/octokatherine)
+
+
+
+
+
+
+
 ## Table of Contents
 
 - [Variables](#variables)
