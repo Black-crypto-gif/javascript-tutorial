@@ -4,34 +4,12 @@ This is a beginner's guide to JavaScript, covering the basics of variables, data
 
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
 
 ## Documentation
-
-[Documentation](https://linktodocumentation)
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
-
-
-
-
-
-
 
 ## Table of Contents
 
@@ -130,3 +108,16 @@ JavaScript event handling is a way to respond to user actions or other events in
 ## Conclusion
 
 This tutorial covers the basics of JavaScript, including variables, data types, operators, control structures, functions, and objects. By mastering these concepts, you'll be able to create dynamic and interactive web applications. Happy coding!
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+![Logo](https://c4.wallpaperflare.com/wallpaper/966/672/905/javascript-minimalism-wallpaper-preview.jpg)
+
+
+## Authors
+
+- [@black-crypto-gif](https://www.github.com/Black-crypto-gif
+/)
