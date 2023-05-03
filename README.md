@@ -10,6 +10,19 @@ This is a beginner's guide to JavaScript, covering the basics of variables, data
 - [Control Structures](#control-structures)
 - [Functions](#functions)
 - [Objects](#objects)
+- [Classes](#classes)
+- [Modules](#modules)
+- [Promises](#promises)
+- [Async/Await](#async-await)
+- [Generators](#generators)
+- [Iterators](#iterators)
+- [Callback Functions](#callback-functions)
+- [Regular Expressions](#regular-expressions)
+- [Error Handling (try/catch)](#error-handling-try-catch)
+- [Higher-Order Functions](#higher-order-functions)
+- [Closures](#closures)
+- [Event Handling](#event-handling)
+
 
 ## Variables
 
@@ -34,6 +47,54 @@ JavaScript functions are blocks of code that perform a specific task. Functions 
 ## Objects
 
 JavaScript objects are collections of key-value pairs. Objects can have properties and methods. Properties are variables that hold values, while methods are functions that perform actions on the object. Objects can be created using object literals or by using constructor functions.
+
+## Classes
+
+JavaScript classes are a way to create objects with methods and properties, similar to object-oriented programming in other languages. Classes are templates for creating objects and can be extended to create subclasses.
+
+## Modules
+
+JavaScript modules are reusable pieces of code that can be imported and exported between different files or projects. Modules allow for better organization and maintainability of code.
+
+## Promises
+
+JavaScript promises are a way to handle asynchronous operations in a more readable and organized manner. Promises represent a value that may not be available yet and provide a way to handle the result or error of an asynchronous operation once it completes.
+
+## async-await
+
+Async/await is a way to write asynchronous code that looks and behaves like synchronous code. It allows for better readability and error handling compared to traditional callback-based asynchronous code.
+
+## Generators
+
+JavaScript generators are functions that can be paused and resumed, allowing for more fine-grained control over the execution of code. Generators are useful for implementing iterators and handling asynchronous operations.
+
+## Iterators
+
+JavaScript iterators are objects that provide a way to traverse sequences of data, such as arrays or strings. Iterators allow for more efficient and flexible handling of data.
+
+## Callback functions
+
+JavaScript callback functions are functions that are passed as arguments to other functions and are executed when a specific event occurs. Callback functions are commonly used in asynchronous code and event handling.
+
+## Regular expressions
+
+JavaScript regular expressions are patterns used to match character combinations in strings. Regular expressions provide a powerful and flexible way to search, replace, and validate strings.
+
+## error-handling-try-catch
+
+JavaScript error handling using try/catch is a way to handle errors and exceptions in a more controlled and predictable manner. Code inside a try block is executed, and if an error occurs, the catch block handles the error.
+
+## Higher-order functions
+
+JavaScript higher-order functions are functions that take other functions as arguments or return functions as their result. Higher-order functions are a powerful tool for creating reusable and composable code.
+
+## Closures
+
+JavaScript closures are functions that have access to variables outside of their own scope. Closures are useful for creating private variables and functions and for implementing callback functions.
+
+## Event handling
+
+JavaScript event handling is a way to respond to user actions or other events in a web page or application. Events can be captured and handled using event listeners and callback functions.
 
 ## Conclusion
 
